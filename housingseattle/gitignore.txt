@@ -1,6 +1,0 @@
-lib/
-share/
-etc/
-bin/
-.ipynb_checkpoints/
-pyvenv.cfg
